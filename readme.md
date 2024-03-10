@@ -1,0 +1,1 @@
+Description: QuantumLeap is a state-of-the-art simulation software for quantum computing. It provides researchers and enthusiasts with an intuitive environment to model and test quantum algorithms, offering insights into quantum behavior with visualizations and comprehensive analytics tools.
